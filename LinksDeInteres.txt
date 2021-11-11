@@ -1,0 +1,4 @@
+Repositorio de microservicio de autenticacion: https://github.com/joalexgo10/4a-docs.git
+Repositorio de microservicio de proveedores: https://github.com/andresisantosleon/aplicacionweb-Ciclo4-BaseBackend.git
+Repositorio de microservicio de materias primas:  
+Jira: https://5p58c4.atlassian.net/jira/software/projects/SM/boards/1
